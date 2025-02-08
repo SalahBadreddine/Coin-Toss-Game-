@@ -1,0 +1,9 @@
+/Users/macbook/Desktop/CoinTossGame/build/Qt_6_8_0_for_macOS-Debug/CMakeFiles/CoinTossGame.dir
+/Users/macbook/Desktop/CoinTossGame/build/Qt_6_8_0_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Users/macbook/Desktop/CoinTossGame/build/Qt_6_8_0_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Users/macbook/Desktop/CoinTossGame/build/Qt_6_8_0_for_macOS-Debug/CMakeFiles/list_install_components.dir
+/Users/macbook/Desktop/CoinTossGame/build/Qt_6_8_0_for_macOS-Debug/CMakeFiles/install.dir
+/Users/macbook/Desktop/CoinTossGame/build/Qt_6_8_0_for_macOS-Debug/CMakeFiles/install/local.dir
+/Users/macbook/Desktop/CoinTossGame/build/Qt_6_8_0_for_macOS-Debug/CMakeFiles/install/strip.dir
+/Users/macbook/Desktop/CoinTossGame/build/Qt_6_8_0_for_macOS-Debug/CMakeFiles/CoinTossGame_autogen_timestamp_deps.dir
+/Users/macbook/Desktop/CoinTossGame/build/Qt_6_8_0_for_macOS-Debug/CMakeFiles/CoinTossGame_autogen.dir
